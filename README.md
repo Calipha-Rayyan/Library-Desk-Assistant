@@ -224,7 +224,8 @@ Each section demonstrates a different Dart programming concept from the Week 3 l
 The course deliverables are:
 
 1. `Library-Desk-Assistant.dart`
-2. A screenshot of the complete console output
+2. ![alt text](image.png) 
+   ![alt text](image-1.png)
 3. `README.md`
 
 The complete console screenshot should show the output from **Part 1 through Part 6**.
